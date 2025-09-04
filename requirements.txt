@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+prophet
+sqlalchemy
+psycopg2-binary
+matplotlib
+seaborn
+streamlit
+mlflow
